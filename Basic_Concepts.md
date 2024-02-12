@@ -19,8 +19,8 @@ Equations and inequalities of this form may be solved by (1) factoring, if the t
 <img src="https://raw.githubusercontent.com/luqmanmalik/Calculations-LaTeX/main/inequality.png">
 
 The basic properties and concepts for quadratic equations also hold for quadratic inequalities. To graph a quadratic inequality
-	1. Replace the inequality with an equal sign;
-	2. Draw the graph of the equation derived in step 1. If the original inequality contains a ≥ or ≤ symbol, then draw the graph using a solid line, if it contains a > or < symbol, draw the graph using a dashed line.
-	3. Select any point not on the line and determine if this point is a solution to the inequality. If the point selected is a valid solution, shade the region on that side of the line. If the selected point does not satisfy the inequality, shade the region on the side of the line opposite that containing this point.
+> 1. Replace the inequality with an equal sign;
+> 2. Draw the graph of the equation derived in step 1. If the original inequality contains a ≥ or ≤ symbol, then draw the graph using a solid line, if it contains a > or < symbol, draw the graph using a dashed line.
+> 3. Select any point not on the line and determine if this point is a solution to the inequality. If the point selected is a valid solution, shade the region on that side of the line. If the selected point does not satisfy the inequality, shade the region on the side of the line opposite that containing this point.
 
 Much more could be said here, and there is no definite protocol for what to include and what to leave out, but hopefully this helps you navigate the wonderful space of quadratic functions.
